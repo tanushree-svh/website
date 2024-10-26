@@ -1,0 +1,32 @@
+
+nav{
+    width:100%;
+    height:50px;
+    background-color: bisque;
+display:flex;
+justify-content: end;
+
+
+}
+a{
+    text-decoration: none;
+    color:rgb(102, 30, 109);
+    padding: 20px;
+font-style:oblique;
+font-weight: bolder;
+    text-shadow: 1px white;
+    
+}
+
+li{
+    display: inline;
+
+    
+    
+
+}
+.tom img{
+    width: 100%;
+    height: 100%;
+}
+a:hover
